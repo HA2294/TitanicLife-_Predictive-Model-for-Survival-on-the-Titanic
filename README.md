@@ -7,3 +7,5 @@ I developed a machine learning model using the the famous Titanic dataset, which
 
 I initially used this project for the “Titanic: Machine Learning from Disaster” Competition on Kaggle where we are asked to predict whether a passenger on the titanic would have been survived or not based on the original data set.
 
+The Model was later converted into a streamlit web application to be accessable to non- programers
+
