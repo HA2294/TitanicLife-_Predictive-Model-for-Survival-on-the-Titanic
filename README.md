@@ -1,4 +1,4 @@
-# Titanic_survival_prediction_model
+# Titanic Survival Prediction Model
 ## Introdduction / Case study 
 I developed a machine learning model using the the famous Titanic dataset, which is used by many people all over the world. It provides information on the fate of passengers on the Titanic and summarized data on each of the passegers according to 
     economic status (class), 
